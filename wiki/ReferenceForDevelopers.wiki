@@ -1,6 +1,6 @@
 #summary One-sentence summary of this page.
 
-= Reference URLs for developers =
+== Reference documents for developers ==
 
 Android developer guide:
 
